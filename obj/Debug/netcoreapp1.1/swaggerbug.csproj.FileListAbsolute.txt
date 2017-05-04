@@ -1,8 +1,0 @@
-/Users/Johnathan/Desktop/swaggerbug/bin/Debug/netcoreapp1.1/swaggerbug.deps.json
-/Users/Johnathan/Desktop/swaggerbug/bin/Debug/netcoreapp1.1/swaggerbug.runtimeconfig.json
-/Users/Johnathan/Desktop/swaggerbug/bin/Debug/netcoreapp1.1/swaggerbug.runtimeconfig.dev.json
-/Users/Johnathan/Desktop/swaggerbug/bin/Debug/netcoreapp1.1/swaggerbug.dll
-/Users/Johnathan/Desktop/swaggerbug/bin/Debug/netcoreapp1.1/swaggerbug.pdb
-/Users/Johnathan/Desktop/swaggerbug/obj/Debug/netcoreapp1.1/swaggerbug.AssemblyInfo.cs
-/Users/Johnathan/Desktop/swaggerbug/obj/Debug/netcoreapp1.1/swaggerbug.dll
-/Users/Johnathan/Desktop/swaggerbug/obj/Debug/netcoreapp1.1/swaggerbug.pdb
